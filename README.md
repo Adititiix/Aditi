@@ -1,10 +1,10 @@
-# 💫 About Me:
-👨‍💻 About Me<br>Hi! I'm a Computer Science student at SRM Institute of Science and Technology, working toward becoming a versatile developer. I'm still exploring different paths — from web to AI — and enjoying the process of learning by building!<br><br>🔭 I’m currently working on personal projects to improve my coding and Git skills.
-🤝 I’m looking to collaborate on beginner-friendly open-source and student hackathons.
-🤝 I’m looking for help with writing cleaner code and building real-world projects.
-🌱 I’m currently learning Python, JavaScript, and data structures.
-💬 Ask me about how I got into coding or anything student-dev related.
-⚡ Fun fact: I break stuff just to learn how to fix it — best way to learn!
+# 💫 Hi I'm Aditi ! :
+👨‍💻 About Me<br>Hi! I'm a Computer Science student at SRM Institute of Science and Technology, working toward becoming a versatile developer. I'm still exploring different paths — from web to AI — and enjoying the process of learning by building!<br><br>🔭 I’m currently working on full-stack web development and improving my Git workflow.<br>
+🤝 I’m looking to collaborate on real-world projects and open-source contributions.<br>
+🤝 I’m looking for help with writing scalable, clean code and software architecture.<br>
+🌱 I’m currently learning Python, JavaScript, and exploring backend frameworks.<br>
+💬 Ask me about web development, version control, or anything tech-related.<br>
+⚡ Fun fact: I love turning ideas into working products — even if it means learning something new from scratch.
 
 
 
