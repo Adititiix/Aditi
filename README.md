@@ -1,5 +1,12 @@
 # 💫 About Me:
-👨‍💻 About Me<br>Hi! I'm a Computer Science student at SRM Institute of Science and Technology, working toward becoming a versatile developer. I'm still exploring different paths — from web to AI — and enjoying the process of learning by building!<br><br>🔭 I’m currently working on<br>Small personal projects to sharpen my coding skills<br><br>Learning Git and GitHub to collaborate better<br><br>🤝 I’m looking to collaborate on<br>Beginner-friendly open-source projects<br><br>Team-based coding challenges or hackathons<br><br>💬 I’m looking for help with<br>Structuring clean code<br><br>Real-world project ideas for students<br><br>🌱 I’m currently learning<br>Python and JavaScript fundamentals<br><br>Data Structures and Algorithms<br><br>Version control (Git)<br><br>💬 Ask me about<br>My journey into programming<br><br>Resources I use to learn code<br><br>Anything related to student developer life<br><br>⚡ Fun fact<br>I believe in learning by doing — I’d rather break stuff and fix it than just read about it!
+👨‍💻 About Me<br>Hi! I'm a Computer Science student at SRM Institute of Science and Technology, working toward becoming a versatile developer. I'm still exploring different paths — from web to AI — and enjoying the process of learning by building!<br><br>🔭 I’m currently working on personal projects to improve my coding and Git skills.
+🤝 I’m looking to collaborate on beginner-friendly open-source and student hackathons.
+🤝 I’m looking for help with writing cleaner code and building real-world projects.
+🌱 I’m currently learning Python, JavaScript, and data structures.
+💬 Ask me about how I got into coding or anything student-dev related.
+⚡ Fun fact: I break stuff just to learn how to fix it — best way to learn!
+
+
 
 
 ## 🌐 Socials:
